@@ -1,0 +1,8 @@
+Getting started. Looks golden.
+Old versions: old solutions and mistakes
+Git commits: manual full logic control and clear view. Prone to user error
+Git multiple files commit: interdependance, unlikely to screw upother files and VC allows to reverse mistake
+Git log and git diff - easy find ur version (if u write messages in comit)
+Git cheekout - AMAZEING no fear of commit cause u can checkout early versions quickly
+Why git? for money
+

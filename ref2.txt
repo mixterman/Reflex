@@ -1,0 +1,1 @@
+Git init: git know where to store versions of new Git repository
